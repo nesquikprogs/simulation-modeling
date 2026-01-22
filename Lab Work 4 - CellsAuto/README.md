@@ -1,4 +1,4 @@
-# Lab Work 4 - CellsAuto (Клеточный автомат)\
+# Lab Work 4 - CellsAuto (Клеточный автомат)
 
 ---
 
